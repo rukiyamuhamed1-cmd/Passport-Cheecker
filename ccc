@@ -1,0 +1,4 @@
+git remote add origin https://github.com/rukiyamuhamed1-cmd/ZERIHUN1.git
+git add .
+git commit -m "set python version"
+git push -u origin main
